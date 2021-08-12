@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <h1>Logic RACE</h1>
-  <strong>A distinguished community of humans for whom Logic matters.</strong>
+  <strong>An amazing community of humans for whom Logic matters.</strong>
 </div>
 <br>
 <p align="center">
